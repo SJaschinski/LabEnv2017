@@ -63,9 +63,6 @@
         "virtualMachineName": {
             "value": "LabEnv-vm"
         },
-        "virtualMachineRG": {
-            "value": "LabEnv-rg"
-        },
         "osDiskType": {
             "value": "Premium_LRS"
         },
